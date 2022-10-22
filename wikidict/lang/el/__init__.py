@@ -178,4 +178,10 @@ def last_template_handler(
             phrase = term(phrase)
         return phrase
 
+    if tpl == "ετ":
+        return term(parts[0])
+        if not data["0"]:
+            phrase = term(phrase)
+        return phrase
+
     return default(template, locale, word)
