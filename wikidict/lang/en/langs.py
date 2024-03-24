@@ -1746,11 +1746,13 @@ langs = {
     "cmn-ear": "Early Mandarin",
     "cmn-gua": "Guanzhong Mandarin",
     "cmn-gui": "Guilin Mandarin",
+    "cmn-jhu": "Jianghuai Mandarin",
     "cmn-lan": "Lanyin Mandarin",
     "cmn-nan": "Nanjing Mandarin",
     "cmn-noe": "Northeastern Mandarin",
     "cmn-palladius": "Palladius",
     "cmn-pinyin": "Hanyu Pinyin",
+    "cmn-sow": "Southwestern Mandarin",
     "cmn-tia": "Tianjin Mandarin",
     "cmn-tongyong": "Tongyong Pinyin",
     "cmn-wadegile": "Wade–Giles",
@@ -9752,5 +9754,5 @@ langs = {
     "zyp": "Zyphe",
     "zza": "Zazaki",
     "zzj": "Zuojiang Zhuang",
-}  # 9,747
+}  # 9,749
 # END
