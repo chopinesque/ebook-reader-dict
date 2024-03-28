@@ -1741,6 +1741,7 @@ langs = {
     "cmn-PH": "Philippine Mandarin",
     "cmn-SG": "Singapore Mandarin",
     "cmn-TW": "Taiwanese Mandarin",
+    "cmn-bec": "Beijingic Mandarin",
     "cmn-bei": "Beijing Mandarin",
     "cmn-cep": "Central Plains Mandarin",
     "cmn-ear": "Early Mandarin",
@@ -4664,9 +4665,12 @@ langs = {
     "lyg": "Lyngngam",
     "lyn": "Luyana",
     "lzh": "Literary Chinese",
-    "lzh-cip": "Ci",
+    "lzh-KO": "Korean Classical Chinese",
+    "lzh-VI": "Vietnamese Classical Chinese",
+    "lzh-cii": "Ci",
     "lzh-cmn": "Classical Mandarin",
     "lzh-cmn-TW": "Classical Taiwanese Mandarin",
+    "lzh-lit": "Literary Chinese",
     "lzh-pre": "Pre-Classical Chinese",
     "lzh-tai": "Classical Taishanese",
     "lzh-yue": "Classical Cantonese",
@@ -9754,5 +9758,5 @@ langs = {
     "zyp": "Zyphe",
     "zza": "Zazaki",
     "zzj": "Zuojiang Zhuang",
-}  # 9,749
+}  # 9,753
 # END
