@@ -9283,7 +9283,6 @@ langs = {
     "xtv": "Thawa",
     "xtw": "Tawandê",
     "xty": "Yoloxochitl Mixtec",
-    "xtz": "Tasmanian",
     "xua": "Alu Kurumba",
     "xub": "Betta Kurumba",
     "xud": "Umiida",
@@ -9758,5 +9757,5 @@ langs = {
     "zyp": "Zyphe",
     "zza": "Zazaki",
     "zzj": "Zuojiang Zhuang",
-}  # 9,753
+}  # 9,752
 # END
