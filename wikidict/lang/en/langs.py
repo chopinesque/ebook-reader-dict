@@ -7355,6 +7355,7 @@ langs = {
     "sey": "Secoya",
     "sez": "Senthang Chin",
     "sfb": "French Belgian Sign Language",
+    "sfe": "Eastern Subanun",
     "sfm": "Small Flowery Miao",
     "sfs": "South African Sign Language",
     "sfw": "Sehwi",
@@ -9757,5 +9758,5 @@ langs = {
     "zyp": "Zyphe",
     "zza": "Zazaki",
     "zzj": "Zuojiang Zhuang",
-}  # 9,752
+}  # 9,753
 # END
