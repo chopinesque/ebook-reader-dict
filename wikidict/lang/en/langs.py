@@ -9604,6 +9604,7 @@ langs = {
     "zgh": "Moroccan Amazigh",
     "zgr": "Magori",
     "zh": "Chinese",
+    "zh-postal": "Postal Romanization",
     "zhb": "Zhaba",
     "zhi": "Zhire",
     "zhn": "Nong Zhuang",
@@ -9758,5 +9759,5 @@ langs = {
     "zyp": "Zyphe",
     "zza": "Zazaki",
     "zzj": "Zuojiang Zhuang",
-}  # 9,753
+}  # 9,754
 # END
