@@ -2451,6 +2451,7 @@ langs = {
     "es-MX": "Mexican Spanish",
     "es-PR": "Puerto Rican Spanish",
     "es-US": "United States Spanish",
+    "es-ear": "Early Modern Spanish",
     "es-lun": "Lunfardo",
     "ese": "Ese Ejja",
     "esh": "Eshtehardi",
@@ -2577,6 +2578,8 @@ langs = {
     "fr-CA": "Canadian French",
     "fr-CH": "Swiss French",
     "fr-aca": "Acadian French",
+    "fr-lou": "Louisiana French",
+    "fr-mis": "Missouri French",
     "frc": "Cajun French",
     "frd": "Fordata",
     "frk": "Frankish",
@@ -9760,5 +9763,5 @@ langs = {
     "zyp": "Zyphe",
     "zza": "Zazaki",
     "zzj": "Zuojiang Zhuang",
-}  # 9,755
+}  # 9,758
 # END
