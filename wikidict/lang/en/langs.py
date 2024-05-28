@@ -1634,7 +1634,6 @@ langs = {
     "cel-brw": "Western Brythonic",
     "cel-bry": "Brythonic",
     "cel-bry-pro": "Proto-Brythonic",
-    "cel-con": "Continental Celtic",
     "cel-gae": "Goidelic",
     "cel-gal": "Gallaecian",
     "cel-gau": "Gaulish",
@@ -9765,5 +9764,5 @@ langs = {
     "zyp": "Zyphe",
     "zza": "Zazaki",
     "zzj": "Zuojiang Zhuang",
-}  # 9,760
+}  # 9,759
 # END
