@@ -2497,7 +2497,7 @@ racines_schemes_arabes = {
         "ar-*a*a*a-a": "être correct",
         "ar-*a*²a*a": "corriger",
         "ar-*a*â*ũ": "entier, intègre",
-        "ar-*a*î*ũ": "bien portant",
+        "ar-*a*î*ũ": "correct",
         "ar-*i**@ũ": "bonne santé",
         "ar-*ta*a*a": "",
         "ar-*â*a*a": "",
