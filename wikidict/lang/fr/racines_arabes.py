@@ -7459,6 +7459,12 @@ racines_schemes_arabes = {
         "ar-*a*²û*ũ": "immuable",
         "ar-*i*â*ũ": "persévérance",
     },  # 5
+    "ar-rWH": {
+        "aa_sens": "souffler",
+        "ar-***ũ": "",
+        "ar-*a*a*ũ": "aération",
+        "ar-*a*i*a-a": "être large",
+    },  # 4
     "ar-rb3": {
         "aa_sens": "quatre, printemps",
         "ar-***ũ": "",
@@ -7749,7 +7755,6 @@ racines_schemes_arabes = {
         "ar-*a*a*@ũ": "repos",
         "ar-*a*a*a-u": "s'en aller",
         "ar-*a*a*ũ": "allégresse",
-        "ar-*a*i*a-a": "être large",
         "ar-*a*²a*a": "se reposer",
         "ar-*a*â*@ũ": "repos",
         "ar-*a*â*ũ": "soirée",
@@ -7780,7 +7785,7 @@ racines_schemes_arabes = {
         "ar-ta**î*@ũ": "prière nocturne",
         "ar-ta*a*²a*a": "éventer",
         "ar-ta*â*a*a": "alterner",
-    },  # 40
+    },  # 39
     "ar-rwd": {
         "aa_sens": "chercher, aller et venir, nonchalence",
         "ar-**a*²a": "",
@@ -9176,5 +9181,5 @@ racines_schemes_arabes = {
         "ar-ta*a*²a*a": "",
         "ar-ta*â*a*a": "se faire des visites",
     },  # 29
-}  # 315
+}  # 316
 # END
