@@ -7464,7 +7464,10 @@ racines_schemes_arabes = {
         "ar-***ũ": "",
         "ar-*a*a*ũ": "aération",
         "ar-*a*i*a-a": "être large",
-    },  # 4
+        "ar-*ta*a*a": "alterner",
+        "ar-a**a*a": "acquitter sa dette",
+        "ar-sta**a*a": "flairer",
+    },  # 7
     "ar-rb3": {
         "aa_sens": "quatre, printemps",
         "ar-***ũ": "",
