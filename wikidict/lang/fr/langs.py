@@ -3054,6 +3054,7 @@ langs = {
     "mbk": "malol",
     "mbl": "maxakalí",
     "mbn": "macaguán",
+    "mbo": "mbo (Cameroun)",
     "mbp": "damana",
     "mbq": "maisin",
     "mbr": "nukak",
@@ -6325,7 +6326,7 @@ langs = {
     "zza": "zazaki",
     "zzj": "zhuang de Zuojiang",
     "èque": "èque",
-}  # 6,320
+}  # 6,321
 # END
 
 # Missing ones (to be removed when available on the Wiktionary languages pages)
