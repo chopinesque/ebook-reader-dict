@@ -2185,6 +2185,7 @@ langs = {
     "isr": "langue des signes israélienne",
     "ist": "istriote",
     "isu": "isu (Menchum)",
+    "isv": "interslave",
     "it": "italien",
     "itb": "itneg de Binongan",
     "itc": "langues italiques",
@@ -4877,6 +4878,7 @@ langs = {
     "sms": "same skolt",
     "smt": "simte",
     "smu": "somray",
+    "smw": "sumbawa",
     "smy": "semnani",
     "sn": "shona",
     "snc": "sinaugoro",
@@ -6327,7 +6329,7 @@ langs = {
     "zza": "zazaki",
     "zzj": "zhuang de Zuojiang",
     "èque": "èque",
-}  # 6,322
+}  # 6,324
 # END
 
 # Missing ones (to be removed when available on the Wiktionary languages pages)
