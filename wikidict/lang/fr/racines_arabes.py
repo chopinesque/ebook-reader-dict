@@ -1992,6 +1992,7 @@ racines_schemes_arabes = {
         "ar-*a*²a*a": "raconter",
         "ar-*a*â*@ũ": "nouveauté",
         "ar-*a*î*ũ": "récit",
+        "ar-*awâ*i*u": "{{p}} changements",
         "ar-*i**ânũ": "événement",
         "ar-*i**ũ": "conteur",
         "ar-*i*â*@ũ": "commencement",
@@ -2003,10 +2004,12 @@ racines_schemes_arabes = {
         "ar-*u*a*â'u": "{{p}} récents",
         "ar-*u*û*ũ": "apparition",
         "ar-*â*a*a": "converser",
+        "ar-*â*i*@ũ": "{{f}} récente",
+        "ar-*â*i*âtũ": "{{p}} changements",
         "ar-*â*i*ũ": "récent",
+        "ar-*î*â*@ũ": "{{p}} changements",
         "ar-a**a*a": "produire",
         "ar-a**â*ũ": "{{p}} traditions",
-        "ar-a**û*ũ": "nouvelle",
         "ar-a*â*î*u": "{{p}} histoires",
         "ar-mu*a*²a*ũ": "digne de foi",
         "ar-mu*a*²i*ũ": "conteur",
@@ -2017,7 +2020,8 @@ racines_schemes_arabes = {
         "ar-ta*a*²a*a": "discuter",
         "ar-ta*a*²u*ũ": "pédérastie",
         "ar-ta*â*a*a": "s'entretenir",
-    },  # 38
+        "ar-u**û*@ũ": "nouvelle",
+    },  # 42
     "ar-Hdd": {
         "aa_sens": "coupant, acéré",
         "ar-*a**ũ": "aiguisé",
@@ -7952,6 +7956,32 @@ racines_schemes_arabes = {
         "ar-ta*a*²a*a": "sautiller",
         "ar-ta*â*a*a": "se bouger",
     },  # 20
+    "ar-rw3": {
+        "aa_sens": "frayeur",
+        "ar-***ũ": "",
+        "ar-**a*²a": "",
+        "ar-*a**@ũ": "frayeur",
+        "ar-*a**ũ": "peur",
+        "ar-*a*a*@ũ": "beauté",
+        "ar-*a*a*a-i": "revenir",
+        "ar-*a*a*a-u": "effaroucher",
+        "ar-*a*²a*a": "faire peur",
+        "ar-*ta*a*a": "être effrayé",
+        "ar-*u**ũ": "cœur",
+        "ar-*u*â*ũ": "intelligent",
+        "ar-*u*û*ũ": "terreur",
+        "ar-*â*a*a": "",
+        "ar-*â*i*@ũ": "{{f}} saisissante",
+        "ar-*â*i*ũ": "saisissant",
+        "ar-a**a*a": "faire peur",
+        "ar-a**a*u": "qui plaît",
+        "ar-mu*a*²a*ũ": "sagace",
+        "ar-n*a*a*a": "",
+        "ar-sta**a*a": "",
+        "ar-ta*a*²a*a": "s'effaroucher",
+        "ar-ta*â*a*a": "",
+        "ar-ya**a*ũ": "frayeur",
+    },  # 24
     "ar-rwD": {
         "aa_sens": "apprivoiser, exercer, jardiner",
         "ar-***ũ": "",
@@ -9480,5 +9510,5 @@ racines_schemes_arabes = {
         "ar-ta*a*²a*a": "",
         "ar-ta*â*a*a": "se faire des visites",
     },  # 29
-}  # 325
+}  # 326
 # END
