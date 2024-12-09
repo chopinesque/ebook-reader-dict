@@ -16,7 +16,7 @@ domain_templates = {
     "Tintin": "Univers de Tintin",
     "URSS": "Histoire, Communisme, URSS",
     "Yougoslavie": "Histoire, Yougoslavie",
-    "additifs": "Alimentaire",
+    "additifs": "Industrie alimentaire",
     "agrumes": "Botanique",
     "alcaloïdes": "Chimie",
     "alcools": "Boisson",
@@ -212,6 +212,7 @@ domain_templates = {
     "métaplasmes": "Linguistique",
     "métaux": "Métallurgie",
     "métiers": "Métier",
+    "nerfs": "Anatomie",
     "nuages": "Météorologie",
     "nymphes": "Mythologie",
     "oblasts": "Géographie",
@@ -342,5 +343,5 @@ domain_templates = {
     "états": "État",
     "étoiles": "Astronomie",
     "îles": "Géographie",
-}  # 337
+}  # 338
 # END
