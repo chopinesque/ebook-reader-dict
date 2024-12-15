@@ -297,6 +297,7 @@ regions = {
     "Kiribati": "Kiribati",
     "Kitigan Zibi": "Kitigan Zibi",
     "Kortemark": "Kortemark",
+    "Kosovo": "Kosovo",
     "Koupuana": "Koupuana",
     "La Hague": "La Hague",
     "La Romagne": "La Romagne",
@@ -500,6 +501,7 @@ regions = {
     "Québec": "Québec",
     "RDC": "Congo-Kinshasa",
     "RDCongo": "Congo-Kinshasa",
+    "RS": "Serbie",
     "Ramerupt": "Ramerupt",
     "Ramonchamp": "Ramonchamp",
     "Rhône-Alpes": "Rhône-Alpes",
@@ -646,6 +648,7 @@ regions = {
     "Wallis-et-Futuna": "Wallis-et-Futuna",
     "Wallonie": "Wallonie",
     "West Muskerry": "West Muskerry",
+    "XK": "Kosovo",
     "Yonne": "Yonne",
     "Yorkshire": "Yorkshire",
     "Yucatan": "Yucatán",
@@ -681,7 +684,7 @@ regions = {
     "Île-de-France": "Île-de-France",
     "Îles d’Aran": "Îles d'Aran",
     "Îles-de-la-Madeleine": "Îles-de-la-Madeleine",
-}  # 676
+}  # 679
 # END
 
 # handled differently
