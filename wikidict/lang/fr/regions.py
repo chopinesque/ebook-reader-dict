@@ -277,6 +277,7 @@ regions = {
     "Irlande": "Irlande",
     "Islande": "Islande",
     "Israël": "Israël",
+    "Isère": "Isère",
     "Italie centrale": "Italie centrale",
     "Italie centro-méridionale": "Italie centro-méridionale",
     "Jamaïque": "Jamaïque",
@@ -331,6 +332,7 @@ regions = {
     "Lituanie": "Lituanie",
     "Lizzano": "Lizzano",
     "Loches-sur-Ource": "Loches-sur-Ource",
+    "Loire": "Loire",
     "Loire-Atlantique": "Loire-Atlantique",
     "Loiret": "Loiret",
     "Lorraine": "Lorraine",
@@ -685,7 +687,7 @@ regions = {
     "Île-de-France": "Île-de-France",
     "Îles d’Aran": "Îles d'Aran",
     "Îles-de-la-Madeleine": "Îles-de-la-Madeleine",
-}  # 680
+}  # 682
 # END
 
 # handled differently
