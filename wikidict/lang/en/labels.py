@@ -2006,6 +2006,7 @@ labels = {
     "pluralonly": "plural only",
     "poetic": "poetic",
     "poetry": "poetry",
+    "poi": "poetic",
     "poison": "toxicology",
     "poker": "poker",
     "poker slang": "poker slang",
@@ -2496,7 +2497,7 @@ labels = {
     "æ-tensing": "æ-tensing",
     "–": "–",
     "—": "—",
-}  # 2,491
+}  # 2,492
 
 syntaxes = {
     "&": {
