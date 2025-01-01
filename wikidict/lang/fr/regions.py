@@ -14,6 +14,7 @@ regions = {
     "AT": "Autriche",
     "AU": "Australie",
     "AUS": "Australie",
+    "Abkhazie": "Abkhazie",
     "Abruzzes": "Abruzzes",
     "Acadie": "Acadie",
     "Acquaviva Collecroce": "Acquaviva Collecroce",
@@ -651,6 +652,7 @@ regions = {
     "Wallis-et-Futuna": "Wallis-et-Futuna",
     "Wallonie": "Wallonie",
     "West Muskerry": "West Muskerry",
+    "XA": "Abkhazie",
     "XK": "Kosovo",
     "Yonne": "Yonne",
     "Yorkshire": "Yorkshire",
@@ -687,7 +689,7 @@ regions = {
     "Île-de-France": "Île-de-France",
     "Îles d’Aran": "Îles d'Aran",
     "Îles-de-la-Madeleine": "Îles-de-la-Madeleine",
-}  # 682
+}  # 684
 # END
 
 # handled differently
