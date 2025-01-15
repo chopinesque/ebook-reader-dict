@@ -63,6 +63,7 @@ regions = {
     "Avetrana": "Avetrana",
     "Azerbaïdjan": "Azerbaïdjan",
     "Aÿ-Champagne": "Aÿ-Champagne",
+    "BA": "Bosnie-Herzégovine",
     "BE": "Belgique",
     "BF": "Burkina Faso",
     "BR": "Brésil",
@@ -689,7 +690,7 @@ regions = {
     "Île-de-France": "Île-de-France",
     "Îles d’Aran": "Îles d'Aran",
     "Îles-de-la-Madeleine": "Îles-de-la-Madeleine",
-}  # 684
+}  # 685
 # END
 
 # handled differently

@@ -294,6 +294,7 @@ labels = {
     "GA": "General American",
     "GC": "gender critical",
     "GC slang": "gender-critical slang",
+    "GCF": "gender critical",
     "GUI": "graphical user interface",
     "Gaelic football": "Gaelic football",
     "GenAm": "General American",
@@ -774,6 +775,7 @@ labels = {
     "TCM": "traditional Chinese medicine",
     "TERF": "gender critical",
     "TERF slang": "gender-critical slang",
+    "TERFism": "gender critical",
     "TV": "television",
     "Taiwan": "Taiwan",
     "Tanzania": "Tanzania",
@@ -2392,6 +2394,7 @@ labels = {
     "traditional Chinese medicine": "traditional Chinese medicine",
     "traditional Korean medicine": "{{w|traditional Korean medicine}}",
     "trans slang": "transgender slang",
+    "trans-exclusionary radical feminism": "gender critical",
     "transferred sense": "transferred sense",
     "transferred senses": "transferred senses",
     "transgender": "transgender",
@@ -2526,7 +2529,7 @@ labels = {
     "æ-tensing": "æ-tensing",
     "–": "–",
     "—": "—",
-}  # 2,521
+}  # 2,524
 
 syntaxes = {
     "&": {
