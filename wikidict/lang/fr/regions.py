@@ -596,6 +596,7 @@ regions = {
     "TAAF": "Vocabulaire des TAAF",
     "TD": "Tchad",
     "Tadjikistan": "Tadjikistan",
+    "Taiwan": "Taïwan",
     "Tanzanie": "Tanzanie",
     "Taormine": "Taormine",
     "Taviano": "Taviano",
@@ -690,7 +691,7 @@ regions = {
     "Île-de-France": "Île-de-France",
     "Îles d’Aran": "Îles d'Aran",
     "Îles-de-la-Madeleine": "Îles-de-la-Madeleine",
-}  # 685
+}  # 686
 # END
 
 # handled differently
