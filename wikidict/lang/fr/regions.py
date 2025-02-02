@@ -9,6 +9,7 @@ regions = {
     "AAVE": "Anglais afro-américain",
     "AD": "Andorre",
     "AE": "Émirats arabes unis",
+    "AL": "Albanie",
     "AM": "Amérique latine",
     "AR": "Argentine",
     "AT": "Autriche",
@@ -82,7 +83,7 @@ regions = {
     "Beaujolais": "Beaujolais",
     "Beine-Nauroy": "Beine-Nauroy",
     "Belgique": "Belgique",
-    "Belize": "Belize",
+    "Belize": "Bélize",
     "Bengale": "Bangladesh",
     "Bengale-Occidental": "Bengale-Occidental",
     "Berru": "Berru",
@@ -205,6 +206,7 @@ regions = {
     "Enna": "Enna",
     "Espagne": "Espagne",
     "Estonie": "Estonie",
+    "Eswatini": "Eswatini",
     "Europe": "Europe",
     "FL": "Liechtenstein",
     "FR": "France",
@@ -588,7 +590,7 @@ regions = {
     "Sud du pays de Galles": "Sud du pays de Galles",
     "Suisse": "Suisse",
     "Suède": "Suède",
-    "Swaziland": "Swaziland",
+    "Swaziland": "Eswatini",
     "Syracuse": "Syracuse",
     "São Paulo": "São Paulo",
     "Sénégal": "Sénégal",
@@ -669,7 +671,6 @@ regions = {
     "jersiais": "Jersiais",
     "lyonnais": "Lyonnais",
     "léonard": "Léonard",
-    "mantois": "Mantois",
     "nord de l’Angleterre": "Nord de l’Angleterre",
     "normand insulaire": "Normand insulaire",
     "parler gaga": "Parler gaga",
@@ -691,7 +692,7 @@ regions = {
     "Île-de-France": "Île-de-France",
     "Îles d’Aran": "Îles d'Aran",
     "Îles-de-la-Madeleine": "Îles-de-la-Madeleine",
-}  # 686
+}  # 687
 # END
 
 # handled differently
