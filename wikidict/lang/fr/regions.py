@@ -444,6 +444,9 @@ regions = {
     "Oman": "Oman",
     "Ontario": "Ontario",
     "Oria": "Oria",
+    "Ossétie": "Ossétie",
+    "Ossétie du Nord": "Ossétie du Nord",
+    "Ossétie du Sud": "Ossétie du Sud",
     "Ostuni": "Ostuni",
     "Otrante": "Otrante",
     "Ouessant": "Ouessant",
@@ -509,6 +512,7 @@ regions = {
     "RDC": "Congo-Kinshasa",
     "RDCongo": "Congo-Kinshasa",
     "RS": "Serbie",
+    "RU-SE": "Ossétie du Nord",
     "Ramerupt": "Ramerupt",
     "Ramonchamp": "Ramonchamp",
     "Rhône-Alpes": "Rhône-Alpes",
@@ -598,7 +602,6 @@ regions = {
     "TAAF": "Vocabulaire des TAAF",
     "TD": "Tchad",
     "Tadjikistan": "Tadjikistan",
-    "Taiwan": "Taïwan",
     "Tanzanie": "Tanzanie",
     "Taormine": "Taormine",
     "Taviano": "Taviano",
@@ -658,6 +661,7 @@ regions = {
     "West Muskerry": "West Muskerry",
     "XA": "Abkhazie",
     "XK": "Kosovo",
+    "XO": "Ossétie du Sud",
     "Yonne": "Yonne",
     "Yorkshire": "Yorkshire",
     "Yucatan": "Yucatán",
@@ -692,7 +696,7 @@ regions = {
     "Île-de-France": "Île-de-France",
     "Îles d’Aran": "Îles d'Aran",
     "Îles-de-la-Madeleine": "Îles-de-la-Madeleine",
-}  # 687
+}  # 691
 # END
 
 # handled differently
