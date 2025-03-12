@@ -888,12 +888,13 @@ racines_schemes_arabes = {
         "ar-*a*i*ũ": "pressé",
         "ar-*a*u*ũ": "pressé",
         "ar-*a*²a*a": "faire vite",
+        "ar-*a*â*é": "{{p}} pressées",
+        "ar-*a*âyi*u": "{{p}} trop pressés",
         "ar-*a*î*ũ": "qui se dépêche",
         "ar-*a*û*ũ": "trop pressé",
         "ar-*i**@ũ": "génisse",
         "ar-*i**ũ": "veau",
         "ar-*i*a*ũ": "{{p}} génisses",
-        "ar-*i*²aw*ũ": "veau",
         "ar-*i*²â*@ũ": "impromptu",
         "ar-*i*â*ũ": "{{p}} roues",
         "ar-*ta*a*a": "",
@@ -902,8 +903,8 @@ racines_schemes_arabes = {
         "ar-*u*ay*@ũ": "marche rapide",
         "ar-*u*ay*é": "marche rapide",
         "ar-*u*ay*ũ": "impromptu",
+        "ar-*u*u*ũ": "{{p}} trop pressés",
         "ar-*u*²â*@ũ": "impromptu",
-        "ar-*u*²â*ũ": "3ujjûlũ",
         "ar-*u*û*ũ": "{{p}} veaux",
         "ar-*â*a*a": "expédier",
         "ar-*â*i*@ũ": "{{f}} prompte",
@@ -927,7 +928,7 @@ racines_schemes_arabes = {
         "ar-sti**â*ũ": "précipitation",
         "ar-ta*a*²a*a": "se presser",
         "ar-ta*â*a*a": "lutter de promptitude",
-    },  # 50
+    },  # 51
     "ar-3jm": {
         "aa_sens": "mâcher",
         "ar-***ũ": "",
