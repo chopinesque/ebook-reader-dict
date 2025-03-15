@@ -18,7 +18,7 @@ recognized_placetypes = {
     "First Nations reserve": {
         "article": "a",
         "display": "First Nations reserve",
-        "preposition": "in",
+        "preposition": "of",
     },
     "French prefecture": {
         "article": "the",
@@ -28,12 +28,12 @@ recognized_placetypes = {
     "Indian reservation": {
         "article": "an",
         "display": "Indian reservation",
-        "preposition": "in",
+        "preposition": "of",
     },
     "Indian reserve": {
         "article": "an",
         "display": "Indian reserve",
-        "preposition": "in",
+        "preposition": "of",
     },
     "Israeli settlement": {
         "article": "an",
@@ -765,6 +765,11 @@ recognized_placetypes = {
         "display": "frazione",
         "preposition": "in",
     },
+    "geographic and cultural area": {
+        "article": "a",
+        "display": "geographic and cultural area",
+        "preposition": "of",
+    },
     "geographic area": {
         "article": "a",
         "display": "geographic area",
@@ -884,6 +889,11 @@ recognized_placetypes = {
         "article": "a",
         "display": "hill town",
         "preposition": "in",
+    },
+    "historic region": {
+        "article": "a",
+        "display": "historical region",
+        "preposition": "of",
     },
     "historical administrative region": {
         "article": "a",
@@ -1143,7 +1153,7 @@ recognized_placetypes = {
     "historical region": {
         "article": "a",
         "display": "historical region",
-        "preposition": "in",
+        "preposition": "of",
     },
     "historical regional unit": {
         "article": "a",
@@ -2245,7 +2255,7 @@ recognized_placetypes = {
         "display": "zone",
         "preposition": "of",
     },
-}  # 448
+}  # 450
 
 placetypes_aliases = {
     "CDP": "census-designated place",
@@ -2396,6 +2406,8 @@ recognized_qualifiers = {
     "maritime": "maritime",
     "mediaeval": "mediaeval",
     "medieval": "medieval",
+    "mid-size": "mid-size",
+    "mid-sized": "mid-sized",
     "mining": "mining",
     "minor": "minor",
     "modern": "modern",
@@ -2447,7 +2459,7 @@ recognized_qualifiers = {
     "west": "west",
     "western": "western",
     "winter": "winter",
-}  # 100
+}  # 102
 
 recognized_placenames = {
     "administrative region/Occitanie": {"article": "", "display": "administrative region/Occitania"},
