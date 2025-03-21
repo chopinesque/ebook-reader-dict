@@ -548,6 +548,7 @@ regions = {
     "Saint-Vincent-et-les Grenadines": "Saint-Vincent-et-les Grenadines",
     "Sainte-Lucie": "Sainte-Lucie",
     "Sainte-Maure": "Sainte-Maure",
+    "Sainte-Sigolène": "Sainte-Sigolène",
     "Salomon": "Salomon",
     "Salon (Aube)": "Salon (Aube",
     "Salvador": "Salvador",
@@ -698,7 +699,7 @@ regions = {
     "Île-de-France": "Île-de-France",
     "Îles d’Aran": "Îles d'Aran",
     "Îles-de-la-Madeleine": "Îles-de-la-Madeleine",
-}  # 693
+}  # 694
 # END
 
 # handled differently
