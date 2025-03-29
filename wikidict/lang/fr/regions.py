@@ -26,6 +26,7 @@ regions = {
     "Aidone": "Aidone",
     "Albanie": "Albanie",
     "Alessano": "Alessano",
+    "Alexandrie": "Alexandrie",
     "Algérie": "Algérie",
     "Allemagne": "Allemagne",
     "Allibaudières": "Allibaudières",
@@ -104,6 +105,7 @@ regions = {
     "Brienne-le-Château": "Brienne-le-Château",
     "Brindes": "Brindes",
     "Briollay": "Briollay",
+    "Bronte": "Bronte",
     "Brunei": "Brunei",
     "Brésil": "Brésil",
     "Bulgarie": "Bulgarie",
@@ -258,6 +260,7 @@ regions = {
     "Gyeongsang": "Gyeongsang",
     "Géorgie": "Géorgie",
     "Gérardmer": "Gérardmer",
+    "Gênes": "Gênes",
     "HK": "Hong Kong",
     "HKG": "Hong Kong",
     "HT": "Haïti",
@@ -699,7 +702,7 @@ regions = {
     "Île-de-France": "Île-de-France",
     "Îles d’Aran": "Îles d'Aran",
     "Îles-de-la-Madeleine": "Îles-de-la-Madeleine",
-}  # 694
+}  # 697
 # END
 
 # handled differently
