@@ -218,6 +218,7 @@ regions = {
     "Fays-la-Chapelle": "Fays-la-Chapelle",
     "Fidji": "Fidji",
     "Finlande": "Finlande",
+    "Floride": "Floride",
     "Fondachelli-Fantina": "Fondachelli-Fantina",
     "Fontainebleau": "Fontainebleau",
     "Forez": "Forez",
@@ -702,7 +703,7 @@ regions = {
     "Île-de-France": "Île-de-France",
     "Îles d’Aran": "Îles d'Aran",
     "Îles-de-la-Madeleine": "Îles-de-la-Madeleine",
-}  # 697
+}  # 698
 # END
 
 # handled differently
