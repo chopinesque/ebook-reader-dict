@@ -5701,6 +5701,7 @@ langs = {
     "txg": "tangoute",
     "txh": "thrace",
     "txi": "ikpeng",
+    "txj": "vieux kanembou",
     "txm": "tomini",
     "txn": "tarangan de l’Ouest",
     "txo": "toto",
@@ -6600,5 +6601,5 @@ langs = {
     "zza": "zazaki",
     "zzj": "zhuang de Zuojiang",
     "èque": "èque",
-}  # 6,595
+}  # 6,596
 # END
